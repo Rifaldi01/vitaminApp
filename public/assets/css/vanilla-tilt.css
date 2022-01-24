@@ -1,0 +1,319 @@
+.product-box {
+    position: relative;
+    background-color: #e6f05d;
+    border-radius: 10;
+    height: 500px;
+    transform-style: preserve-3d;
+}
+
+.product-box::before {
+    content: "Vitacimin";
+    position: absolute;
+    color: #fff;
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    top: 55px;
+    left: 50%;
+    transform: translate(-55%, 0);
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.product-box:hover::before {
+    opacity: 0.3;
+}
+
+.product-box::after {
+    content: "VIT-C";
+    position: absolute;
+    color: #fff;
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    top: 340px;
+    left: 50%;
+    transform: translate(-55%, 0);
+    opacity: 0;
+    transition: 0.5s;
+}
+.product-box:hover::after {
+    opacity: 0.3;
+}
+
+.product-name {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+    font-size: 2em;
+    transform: translate3d(0, 0, 50px);
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.product-box:hover .product-name {
+    top: 20px;
+    opacity: 1;
+}
+
+.product-tombol {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate3d(-50%, 0, 50px);
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.product-box:hover .product-tombol {
+    opacity: 1;
+    bottom: 20px;
+}
+
+.product-img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate3d(-50%, -50%, 100px);
+    max-width: 200px;
+    transition: 0.5;
+}
+
+.product-box:hover .product-img {
+    transform: translate3d(-50%, -50%) rotate(5deg) scale(1.2);
+}
+.product-img-2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate3d(-50%, -50%, 100px);
+    max-width: 300px;
+    transition: 0.5;
+}
+
+.product-box:hover .product-img-2 {
+    transform: translate3d(-50%, -50%) rotate(5deg) scale(1.2);
+}
+
+.product-box-2 {
+    position: relative;
+    background-color: #f0b55d;
+    border-radius: 10;
+    height: 500px;
+    transform-style: preserve-3d;
+}
+
+.product-box-2::before {
+    content: "Vitacimin";
+    position: absolute;
+    color: #fff;
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    top: 55px;
+    left: 50%;
+    transform: translate(-55%, 0);
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.product-box-2:hover::before {
+    opacity: 0.3;
+}
+
+.product-box-2::after {
+    content: "VIT-C";
+    position: absolute;
+    color: #fff;
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    top: 340px;
+    left: 50%;
+    transform: translate(-55%, 0);
+    opacity: 0;
+    transition: 0.5s;
+}
+.product-box-2:hover::after {
+    opacity: 0.3;
+}
+
+.product-name {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+    font-size: 2em;
+    transform: translate3d(0, 0, 50px);
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.product-box-2:hover .product-name {
+    top: 20px;
+    opacity: 1;
+}
+
+.product-tombol {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate3d(-50%, 0, 50px);
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.product-box-2:hover .product-tombol {
+    opacity: 1;
+    bottom: 20px;
+}
+
+.product-box-3 {
+    position: relative;
+    background-color: #fc6767;
+    border-radius: 10;
+    height: 500px;
+    transform-style: preserve-3d;
+}
+
+.product-box-3::before {
+    content: "Vitacimin";
+    position: absolute;
+    color: #fff;
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    top: 55px;
+    left: 50%;
+    transform: translate(-55%, 0);
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.product-box-3:hover::before {
+    opacity: 0.3;
+}
+
+.product-box-3::after {
+    content: "VIT-C";
+    position: absolute;
+    color: #fff;
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    top: 340px;
+    left: 50%;
+    transform: translate(-55%, 0);
+    opacity: 0;
+    transition: 0.5s;
+}
+.product-box-3:hover::after {
+    opacity: 0.3;
+}
+
+.product-name {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+    font-size: 2em;
+    transform: translate3d(0, 0, 50px);
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.product-box-3:hover .product-name {
+    top: 20px;
+    opacity: 1;
+}
+
+.product-tombol {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate3d(-50%, 0, 50px);
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.product-box-3:hover .product-tombol {
+    opacity: 1;
+    bottom: 20px;
+}
+.product-box-4 {
+    position: relative;
+    background-color: #f767fc;
+    border-radius: 10;
+    height: 500px;
+    transform-style: preserve-3d;
+}
+
+.product-box-4::before {
+    content: "Vitacimin";
+    position: absolute;
+    color: #fff;
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    top: 55px;
+    left: 50%;
+    transform: translate(-55%, 0);
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.product-box-4:hover::before {
+    opacity: 0.3;
+}
+
+.product-box-4::after {
+    content: "VIT-C";
+    position: absolute;
+    color: #fff;
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    top: 340px;
+    left: 50%;
+    transform: translate(-55%, 0);
+    opacity: 0;
+    transition: 0.5s;
+}
+.product-box-4:hover::after {
+    opacity: 0.3;
+}
+
+.product-name {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+    font-size: 2em;
+    transform: translate3d(0, 0, 50px);
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.product-box-4:hover .product-name {
+    top: 20px;
+    opacity: 1;
+}
+
+.product-tombol {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate3d(-50%, 0, 50px);
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.product-box-4:hover .product-tombol {
+    opacity: 1;
+    bottom: 20px;
+}

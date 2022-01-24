@@ -5,7 +5,7 @@
 @include('layouts.component.head')
 <body>
 @include('layouts.component.header')
-@include('layouts.component.slider')
+@include('home.slider')
 <section class="ftco-section ftco-no-pt ftco-no-pb">
     <div class="container-fluid">
         <div class="row g-2 py-2">
@@ -50,23 +50,7 @@
 </section>
 <section class="ftco-section ftco-image img" style="background-image: url(images/bg_4.jpg);">
     <div class="container">
-        <div class="row justify-content-end">
-            <div class="col-md-6 heading-section" data-aos="fade-up" data-aos-duration="1000">
-                <span class="subheading">About Furnish</span>
-                <h2 class="mb-4">Quality Makes the Belief for Customers</h2>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live
-                    the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large
-                    language ocean.</p>
-                <a href="https://www.youtube.com/watch?v=9ZZ7pq331Dc" class="d-flex glightbox pt-4 align-items-center">
-                    <div class="icon">
-                        <span class="fa fa-play"></span>
-                    </div>
-                    <div class="text ps-4">
-                        <span>Watch Video</span>
-                    </div>
-                </a>
-            </div>
-        </div>
+      
     </div>
 </section>
 <section class="ftco-gallery ftco-no-pb ftco-section">
@@ -334,8 +318,7 @@
                 </div>
             </div>
             <div class="col-md-12 text-center" data-aos="fade-up" data-aos-duration="1000">
-                <p><a href="#" class="btn btn-primary py-3 px-4">Learn More</a> <a href="#"
-                                                                                   class="btn btn-secondary py-3 px-4">Get
+                <p><a href="#" class="btn btn-primary py-3 px-4">Learn More</a> <a href="#" class="btn btn-secondary py-3 px-4">Get
                         A Request</a></p>
             </div>
         </div>
@@ -632,27 +615,7 @@
         </div>
     </div>
 </section>
-<section class="ftco-section ftco-image img" style="background-image: url(images/bg_4.jpg);">
-    <div class="container">
-        <div class="row justify-content-end">
-            <div class="col-md-6 heading-section" data-aos="fade-up" data-aos-duration="1000">
-                <span class="subheading">About Furnish</span>
-                <h2 class="mb-4">Quality Makes the Belief for Customers</h2>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live
-                    the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large
-                    language ocean.</p>
-                <a href="https://www.youtube.com/watch?v=9ZZ7pq331Dc" class="d-flex glightbox pt-4 align-items-center">
-                    <div class="icon">
-                        <span class="fa fa-play"></span>
-                    </div>
-                    <div class="text ps-4">
-                        <span>Watch Video</span>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
+@include('home.about')
 <section class="ftco-gallery ftco-no-pb ftco-section">
     <div class="container-fluid">
         <div class="row justify-content-center">
