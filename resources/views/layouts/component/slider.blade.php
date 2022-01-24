@@ -7,7 +7,7 @@
                 <div class="desc">
                     <h1 class="">Vitacimin </h1>
                     <div class="w-75">
-                        <p>Sebuah Vitamin C terbaik yang kami pasarkan dan dengan harga yang terjangkau</p>
+                        <p>Sebuah Vitamin C terbaik yang kami pasarkan dengan harga yang terjangkau</p>
 
                     </div>
                 </div>

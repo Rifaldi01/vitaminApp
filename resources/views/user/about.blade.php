@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row justify-content-end">
             <div class="col-md-6 heading-section" data-aos="fade-up" data-aos-duration="1000">
-                <span class="subheading">About Furnish</span>
+                <span class="subheading">About Vitacimin</span>
                 <h2 class="mb-4">Quality Makes the Belief for Customers</h2>
                 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live
                     the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large

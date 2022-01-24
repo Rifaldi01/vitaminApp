@@ -6,10 +6,10 @@
                 <div class="ftco-footer-widget mb-4">
                     <h2 class="ftco-heading-2 logo d-flex">
                         <a class="navbar-brand" href="index-2.html">
-                            Furnish
+                            Vitacimin
                         </a>
                     </h2>
-                    <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                    <p>Ga ngobat ga sehat, kalo ga sehat berarti harus ngobat, BUKAN MAEN</p>
                     <ul class="ftco-footer-social mt-4">
                         <li><a href="#"><span class="fa fa-twitter"></span></a></li>
                         <li><a href="#"><span class="fa fa-facebook"></span></a></li>
@@ -19,54 +19,13 @@
             </div>
             <div class="col-md-6 col-lg">
                 <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">Services</h2>
-                    <ul class="list-unstyled w-100">
-                        <li><a href="#"><span class="ion ion-ios-arrow-round-forward me-2"></span>Amazing Deals</a></li>
-                        <li><a href="#"><span class="ion ion-ios-arrow-round-forward me-2"></span>Quality Furniture</a>
-                        </li>
-                        <li><a href="#"><span class="ion ion-ios-arrow-round-forward me-2"></span>Modern Design</a></li>
-                        <li><a href="#"><span class="ion ion-ios-arrow-round-forward me-2"></span>Best Support</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg">
-                <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">Recent Posts</h2>
-                    <div class="block-21 mb-4 d-flex">
-                        <a class="blog-img img rounded" style="background-image: url(images/image_1.jpg);"></a>
-                        <div class="text">
-                            <div class="meta">
-                                <div><a href="#"><span class="fa fa-calendar"></span> Mar. 05, 2021</a></div>
-                                <div><a href="#"><span class="fa fa-user"></span> Admin</a></div>
-                            </div>
-                            <h3 class="heading"><a href="#">Shop the Look Cottage Country Living Room</a></h3>
-                        </div>
-                    </div>
-                    <div class="block-21 mb-4 d-flex">
-                        <a class="blog-img img rounded" style="background-image: url(images/image_2.jpg);"></a>
-                        <div class="text">
-                            <div class="meta">
-                                <div><a href="#"><span class="fa fa-calendar"></span> Mar. 05, 2021</a></div>
-                                <div><a href="#"><span class="fa fa-user"></span> Admin</a></div>
-                            </div>
-                            <h3 class="heading"><a href="#">Shop the Look Cottage Country Living Room</a></h3>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg">
-                <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">Have a Questions?</h2>
+                    <h2 class="ftco-heading-2">Mengajukan Pertanyaan?</h2>
                     <div class="block-23 mb-3">
                         <ul>
-                            <li><span class="icon fa fa-map marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span>
+                            <li><span class="icon fa fa-map marker"></span><span class="text">Sukamukti, Kec. Katapang, Kabupaten Bandung, Jawa Barat 40921</span>
                             </li>
                             <li><a href="#"><span class="icon fa fa-phone"></span><span
-                                        class="text">+2 392 3929 210</span></a></li>
-                            <li><a href="#"><span class="icon fa fa-paper-plane"></span><span class="text"><span
-                                            class="__cf_email__"
-                                            data-cfemail="3950575f567940564c4b5d5654585057175a5654">[email&#160;protected]</span></span></a>
-                            </li>
+                                        class="text">+62 1234567890</span></a></li>
                         </ul>
                     </div>
                 </div>
@@ -88,4 +47,3 @@
         </div>
     </div>
 </footer>
-
