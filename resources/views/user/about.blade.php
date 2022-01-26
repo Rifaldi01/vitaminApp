@@ -32,26 +32,26 @@
         <div class="row section-counter">
             <div class="col-sm-6 col-md-6 col-lg-3 d-flex align-items-stretch">
                 <div class="counter-wrap-2" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-                    <h2 class="number"><span class="countup">20</span></h2>
-                    <span class="caption">Year of Experienced</span>
+                    <h2 class="number"><span class="countup">15</span></h2>
+                    <span class="caption">Stock Product</span>
                 </div>
             </div>
             <div class="col-sm-6 col-md-6 col-lg-3 d-flex align-items-stretch">
                 <div class="counter-wrap-2" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                    <h2 class="number"><span class="countup">10200</span></h2>
-                    <span class="caption">Satisfied Customers </span>
+                    <h2 class="number"><span class="countup">2000 </span></h2>
+                    <span class="caption">Last Month Visitors</span>
                 </div>
             </div>
             <div class="col-sm-6 col-md-6 col-lg-3 d-flex align-items-stretch">
                 <div class="counter-wrap-2" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                    <h2 class="number"><span class="countup">9850</span></h2>
-                    <span class="caption">Project Completed</span>
+                    <h2 class="number"><span class="countup">9000</span></h2>
+                    <span class="caption">Happy Custumor</span>
                 </div>
             </div>
             <div class="col-sm-6 col-md-6 col-lg-3 d-flex align-items-stretch">
                 <div class="counter-wrap-2" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-                    <h2 class="number"><span class="countup">20</span></h2>
-                    <span class="caption">Get Awards</span>
+                    <h2 class="number"><span class="countup">3320</span></h2>
+                    <span class="caption">Satisfied Custumor</span>
                 </div>
             </div>
         </div>
@@ -120,21 +120,6 @@
                                 <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                                 <div class="d-flex align-items-center">
                                     <div class="user-img" style="background-image: url(images/person_4.jpg)"></div>
-                                    <div class="ps-3">
-                                        <p class="name">Roger Scott</p>
-                                        <span class="position">Marketing Manager</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="testimony-wrap">
-                            <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>
-                            <div class="text">
-                                <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                                <div class="d-flex align-items-center">
-                                    <div class="user-img" style="background-image: url(images/person_2.jpg)"></div>
                                     <div class="ps-3">
                                         <p class="name">Roger Scott</p>
                                         <span class="position">Marketing Manager</span>

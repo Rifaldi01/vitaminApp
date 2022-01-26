@@ -43,10 +43,10 @@
             </div>
             <div class="col-lg-6 heading-section d-flex align-items-center" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
                 <div class="mt-0 my-lg-5 py-5">
-                    <span class="subheading">About Furnish</span>
-                    <h2 class="mb-4">More than 20k Trusted Our Furniture Industry</h2>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-                    <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                    <span class="subheading">About Vitacimin</span>
+                    <h2 class="mb-4">Vitacimin bermanfaat untuk menjaga kesehatan dan membantu memenuhi kebutuhan tubuh terhadap vitamin C</h2>
+                    <p>Vitacimin mengandung vitamin C, vitamin E, dan L-cysteine yang berperan sebagai antioksidan untuk menangkal radikal bebas, serta vitamin B6 (pyridoxine) dan nicotinamide yang berguna memperbaiki metabolisme tubuh.</p>
+                    <p>Vitacimin juga mengandung vitamin B2 (riboflavin) dan calcium pantothenate yang berfungsi membantu proses pembentukan energi.</p>
                     <p class="mt-4"><a href="#" class="btn btn-primary py-3 px-4">Learn More</a></p>
                 </div>
             </div>
@@ -115,13 +115,12 @@
                                 <div class="icon d-flex align-items-center justify-content-center"><span
                                         class="fa fa-quote-left"></div>
                                 <div class="text">
-                                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia
-                                        and Consonantia, there live the blind texts.</p>
+                                    <p class="mb-4">Rasanya anjim banget bikin JJ gemeter meriang waw membantai segala harapan.</p>
                                     <div class="d-flex align-items-center">
                                         <div class="user-img" style="background-image: url(images/person_1.jpg)"></div>
                                         <div class="ps-3">
-                                            <p class="name">Roger Scott</p>
-                                            <span class="position">Marketing Manager</span>
+                                            <p class="name">Bagus Nurmalem</p>
+                                            <span class="position">Tampan & Pemberani</span>
                                         </div>
                                     </div>
                                 </div>
@@ -132,13 +131,12 @@
                                 <div class="icon d-flex align-items-center justify-content-center"><span
                                         class="fa fa-quote-left"></div>
                                 <div class="text">
-                                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia
-                                        and Consonantia, there live the blind texts.</p>
+                                    <p class="mb-4">Rasanya anjim banget bikin JJ gemeter meriang waw membantai segala harapan.</p>
                                     <div class="d-flex align-items-center">
                                         <div class="user-img" style="background-image: url(images/person_2.jpg)"></div>
                                         <div class="ps-3">
-                                            <p class="name">Roger Scott</p>
-                                            <span class="position">Marketing Manager</span>
+                                            <p class="name">Epul Emul</p>
+                                            <span class="position">aowkowwo epul</span>
                                         </div>
                                     </div>
                                 </div>
@@ -149,13 +147,12 @@
                                 <div class="icon d-flex align-items-center justify-content-center"><span
                                         class="fa fa-quote-left"></div>
                                 <div class="text">
-                                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia
-                                        and Consonantia, there live the blind texts.</p>
+                                    <p class="mb-4">Rasanya anjim banget bikin JJ gemeter meriang waw membantai segala harapan.</p>
                                     <div class="d-flex align-items-center">
                                         <div class="user-img" style="background-image: url(images/person_3.jpg)"></div>
                                         <div class="ps-3">
-                                            <p class="name">Roger Scott</p>
-                                            <span class="position">Marketing Manager</span>
+                                            <p class="name">Ajri Gaming</p>
+                                            <span class="position">Gamers Ganteng Idaman</span>
                                         </div>
                                     </div>
                                 </div>
@@ -166,13 +163,12 @@
                                 <div class="icon d-flex align-items-center justify-content-center"><span
                                         class="fa fa-quote-left"></div>
                                 <div class="text">
-                                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia
-                                        and Consonantia, there live the blind texts.</p>
+                                    <p class="mb-4">Rasanya anjim banget bikin JJ gemeter meriang waw membantai segala harapan.</p>
                                     <div class="d-flex align-items-center">
                                         <div class="user-img" style="background-image: url(images/person_4.jpg)"></div>
                                         <div class="ps-3">
-                                            <p class="name">Roger Scott</p>
-                                            <span class="position">Marketing Manager</span>
+                                            <p class="name">Reksi Muhammad Sidiq</p>
+                                            <span class="position">Pedofilia</span>
                                         </div>
                                     </div>
                                 </div>
@@ -183,13 +179,12 @@
                                 <div class="icon d-flex align-items-center justify-content-center"><span
                                         class="fa fa-quote-left"></div>
                                 <div class="text">
-                                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia
-                                        and Consonantia, there live the blind texts.</p>
+                                    <p class="mb-4">Rasanya anjim banget bikin JJ gemeter meriang waw membantai segala harapan.</p>
                                     <div class="d-flex align-items-center">
                                         <div class="user-img" style="background-image: url(images/person_2.jpg)"></div>
                                         <div class="ps-3">
-                                            <p class="name">Roger Scott</p>
-                                            <span class="position">Marketing Manager</span>
+                                            <p class="name">Deden Alif</p>
+                                            <span class="position">DedenAlif123456</span>
                                         </div>
                                     </div>
                                 </div>
@@ -216,8 +211,8 @@
                         </a>
                         <div class="text">
                             <p class="meta"><span><i class="fa fa-user me-1"></i>Admin</span> <span><i class="fa fa-calendar me-1"></i>Jan. 27, 2021</span> <span><a href="#"><i class="fa fa-comment me-1"></i> 3 Comments</a></span></p>
-                            <h3 class="heading mb-3"><a href="#">Shop the Look Cottage Country Living Room</a></h3>
-                            <p>A small river named Duden flows by their place.</p>
+                            <h3 class="heading mb-3"><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiCkqn2p8n1AhWwT2wGHa6OAGAQFnoECAMQAQ&url=https%3A%2F%2Fwww.halodoc.com%2Fobat-dan-vitamin%2Fvitacimin-500-mg-rasa-lemon-2-tablet&usg=AOvVaw12PwBVDC8sPWiOS07rlI1s">Viacimin - Manfaat, dosis & efek samping</a></h3>
+                            <p>Alodokter</p>
                         </div>
                     </div>
                 </div>
@@ -227,8 +222,8 @@
                         </a>
                         <div class="text">
                             <p class="meta"><span><i class="fa fa-user me-1"></i>Admin</span> <span><i class="fa fa-calendar me-1"></i>Jan. 27, 2021</span> <span><a href="#"><i class="fa fa-comment me-1"></i> 3 Comments</a></span></p>
-                            <h3 class="heading mb-3"><a href="#">Shop the Look Cottage Country Living Room</a></h3>
-                            <p>A small river named Duden flows by their place.</p>
+                            <h3 class="heading mb-3"><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiCkqn2p8n1AhWwT2wGHa6OAGAQFnoECAMQAQ&url=https%3A%2F%2Fwww.halodoc.com%2Fobat-dan-vitamin%2Fvitacimin-500-mg-rasa-lemon-2-tablet&usg=AOvVaw12PwBVDC8sPWiOS07rlI1s">Vitacimin 500 mg Rasa Lemon 2 Tablet</a></h3>
+                            <p>Halodoc</p>
                         </div>
                     </div>
                 </div>
@@ -238,8 +233,8 @@
                         </a>
                         <div class="text">
                             <p class="meta"><span><i class="fa fa-user me-1"></i>Admin</span> <span><i class="fa fa-calendar me-1"></i>Jan. 27, 2021</span> <span><a href="#"><i class="fa fa-comment me-1"></i> 3 Comments</a></span></p>
-                            <h3 class="heading mb-3"><a href="#">Shop the Look Cottage Country Living Room</a></h3>
-                            <p>A small river named Duden flows by their place.</p>
+                            <h3 class="heading mb-3"><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiCkqn2p8n1AhWwT2wGHa6OAGAQFnoECEoQAQ&url=https%3A%2F%2Fwww.klikdokter.com%2Fobat%2Fvitacimin&usg=AOvVaw1fFjN726Y5bZSvh6QBPTbh">Obat Vitacimin - Dosis, Pemakaian, Efek Samping</a></h3>
+                            <p>Klikdokter</p>
                         </div>
                     </div>
                 </div>
@@ -249,8 +244,8 @@
                         </a>
                         <div class="text">
                             <p class="meta"><span><i class="fa fa-user me-1"></i>Admin</span> <span><i class="fa fa-calendar me-1"></i>Jan. 27, 2021</span> <span><a href="#"><i class="fa fa-comment me-1"></i> 3 Comments</a></span></p>
-                            <h3 class="heading mb-3"><a href="#">Shop the Look Cottage Country Living Room</a></h3>
-                            <p>A small river named Duden flows by their place.</p>
+                            <h3 class="heading mb-3"><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiCkqn2p8n1AhWwT2wGHa6OAGAQFnoECAMQAQ&url=https%3A%2F%2Fwww.halodoc.com%2Fobat-dan-vitamin%2Fvitacimin-500-mg-rasa-lemon-2-tablet&usg=AOvVaw12PwBVDC8sPWiOS07rlI1s">Tablet Hisap VITACIMIN</a></h3>
+                            <p>Mandjur</p>
                         </div>
                     </div>
                 </div>
@@ -259,7 +254,7 @@
     </section>
 @endsection
 @push('head')
-    
+
 @endpush
 
 @push('js')
@@ -268,27 +263,27 @@
 		max: 25,
 		speed: 400
 	});
-	
+
 </script>
 <script type="text/javascript">
 	VanillaTilt.init(document.querySelectorAll(".product-box-2"), {
 		max: 25,
 		speed: 400
 	});
-	
+
 </script>
 <script type="text/javascript">
 	VanillaTilt.init(document.querySelectorAll(".product-box-3"), {
 		max: 25,
 		speed: 400
 	});
-	
+
 </script>
 <script type="text/javascript">
 	VanillaTilt.init(document.querySelectorAll(".product-box-4"), {
 		max: 25,
 		speed: 400
 	});
-	
+
 </script>
 @endpush
