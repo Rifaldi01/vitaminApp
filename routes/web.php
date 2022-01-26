@@ -1,7 +1,11 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\User\HomeController as berandaController;
+use App\Http\Controllers\User\HomeController as BerandaController;
+use App\Http\Controllers\User\AboutController;
+use App\Http\Controllers\User\ProductController;
+use App\Http\Controllers\User\ContakController;
+use App\Http\Controllers\Admin\DhasboardController;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,6 +22,16 @@ use App\Http\Controllers\User\HomeController as berandaController;
 
 Auth::routes();
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/admin/dhasboard', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::group(['prefix' => 'admin', 'middleware' => ['role:admin']], function () {
 
-Route::get('/', [berandaController::class, 'index']);
+    Route::get('/dhasboard', [DhasboardController::class, 'index']);
+});
+
+Route::get('/', [BerandaController::class, 'index']);
+Route::get('/about', [AboutController::class, 'index']);
+Route::get('/product', [ProductController::class, 'index']);
+Route::get('/contact', [ContakController::class, 'index']);
+
+//admin
+

@@ -64,47 +64,31 @@
             </div>
             <div class="row g-2">
                 <div class="col-md-3" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-                    <a href="images/gallery-1.jpg" class="gallery-wrap img d-flex align-items-end justify-content-center glightbox" style="background-image: url(images/gallery-1.jpg);">
+                    <a href="images/gallery-1.jpg" class="gallery-wrap img d-flex align-items-end justify-content-center glightbox" style="background-image: url(images/vitacimin-1.png);">
                         <div class="text">
                             <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-search"></span></div>
                             <h2 class="mb-0">Business Finance Consulting</h2>
                         </div>
                     </a>
                 </div>
-                <div class="col-md-3" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                    <a href="images/gallery-1.jpg" class="gallery-wrap img d-flex align-items-end justify-content-center glightbox" style="background-image: url(images/gallery-2.jpg);">
+                <div class="col-md-3" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+                    <a href="images/gallery-1.jpg" class="gallery-wrap img d-flex align-items-end justify-content-center glightbox" style="background-image: url(images/vitacimin-2.png);">
                         <div class="text">
                             <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-search"></span></div>
                             <h2 class="mb-0">Business Finance Consulting</h2>
                         </div>
                     </a>
                 </div>
-                <div class="col-md-6" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                    <a href="images/gallery-3.jpg" class="gallery-wrap img d-flex align-items-end justify-content-center glightbox" style="background-image: url(images/gallery-3.jpg);">
+                <div class="col-md-3" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+                    <a href="images/gallery-1.jpg" class="gallery-wrap img d-flex align-items-end justify-content-center glightbox" style="background-image: url(images/vitacimin-3.png);">
                         <div class="text">
                             <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-search"></span></div>
                             <h2 class="mb-0">Business Finance Consulting</h2>
                         </div>
                     </a>
                 </div>
-                <div class="col-md-5" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-                    <a href="images/gallery-4.jpg" class="gallery-wrap img d-flex align-items-end justify-content-center glightbox" style="background-image: url(images/gallery-4.jpg);">
-                        <div class="text">
-                            <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-search"></span></div>
-                            <h2 class="mb-0">Business Finance Consulting</h2>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-3" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                    <a href="images/gallery-5.jpg" class="gallery-wrap img d-flex align-items-end justify-content-center glightbox" style="background-image: url(images/gallery-5.jpg);">
-                        <div class="text">
-                            <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-search"></span></div>
-                            <h2 class="mb-0">Business Finance Consulting</h2>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                    <a href="images/gallery-6.jpg" class="gallery-wrap img d-flex align-items-end justify-content-center glightbox" style="background-image: url(images/gallery-6.jpg);">
+                <div class="col-md-3" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+                    <a href="images/gallery-1.jpg" class="gallery-wrap img d-flex align-items-end justify-content-center glightbox" style="background-image: url(images/vitacimin-4.png);">
                         <div class="text">
                             <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-search"></span></div>
                             <h2 class="mb-0">Business Finance Consulting</h2>

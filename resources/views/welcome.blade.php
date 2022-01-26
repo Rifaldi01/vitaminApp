@@ -2,9 +2,9 @@
 <html lang="en">
 
 <!-- Mirrored from preview.colorlib.com/theme/furnish/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 02 Dec 2021 02:27:34 GMT -->
-@include('layouts.component.head')
+@include('layouts.component.asset-user.head')
 <body>
-@include('layouts.component.header')
+@include('layouts.component.asset-user.header')
 @include('home.slider')
 <section class="ftco-section ftco-no-pt ftco-no-pb">
     <div class="container-fluid">
@@ -50,7 +50,7 @@
 </section>
 <section class="ftco-section ftco-image img" style="background-image: url(images/bg_4.jpg);">
     <div class="container">
-      
+
     </div>
 </section>
 <section class="ftco-gallery ftco-no-pb ftco-section">
@@ -960,8 +960,8 @@
         </div>
     </div>
 </section>
-@include('layouts.component.footer')
-@include('layouts.component.js')
+@include('layouts.component.asset-user.footer')
+@include('layouts.component.asset-user.js')
 </body>
 
 <!-- Mirrored from preview.colorlib.com/theme/furnish/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 02 Dec 2021 02:27:49 GMT -->
