@@ -22,10 +22,10 @@ use App\Http\Controllers\Admin\DhasboardController;
 
 Auth::routes();
 
-Route::get('/admin/dhasboard', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
 Route::group(['prefix' => 'admin', 'middleware' => ['role:admin']], function () {
 
-    Route::get('/dhasboard', [DhasboardController::class, 'index']);
+    Route::get('/dashboard', [DhasboardController::class, 'index']);
 });
 
 Route::get('/', [BerandaController::class, 'index']);
